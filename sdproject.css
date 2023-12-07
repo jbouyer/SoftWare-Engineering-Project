@@ -1,36 +1,37 @@
 body {
-    background-image: url(cloudbackground.jpg);
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-image: url(aa91412eb4e0cb9f9a8670dbb6f12867.png);
+    background-size: 1500px;
 }
 a:link {
     text-decoration: none;
 }
 
 #logo img {
-    height: 100px;
-    border-radius: 50% 20% / 10% 40%;
+    height: 150px;
+    /* border-radius: 50% 20% / 10% 40%; */
     align-items: flex-start;
 }
 
 .nav-logo {
     display: flex;
     align-items: flex-start; 
-    padding-right: 100px;
+    margin-left: 100px;
 }
 .navbar {
-    background-color: aliceblue;
+    background-color: transparent;
     display: flex;
     padding: 25px 18px;
-    justify-content: flex-end;
+    justify-content: space-around;
+    align-items: center;
     font-weight: bold;
-    margin: 20px;
-    border: dotted black;
+    font-size: large;
+    margin: .01px;
+    border: groove black;
     text-color: black;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 p {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-color: black;
     margin-left: 20px;
     margin-right: 20px;
